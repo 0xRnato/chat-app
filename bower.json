@@ -8,6 +8,8 @@
   "license": "ISC",
   "homepage": "https://github.com/zRnatoNeto/chat-app",
   "dependencies": {
-    "bootstrap": "^3.3.7"
+    "bootstrap": "v4.0.0-alpha.6",
+    "angular": "1.6.4",
+    "angular-route": "1.6.4"
   }
 }
