@@ -1,0 +1,13 @@
+{
+  "name": "chat-app",
+  "description": "A basic chat app",
+  "main": "server.js",
+  "authors": [
+    "zRnatoNeto"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/zRnatoNeto/chat-app",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

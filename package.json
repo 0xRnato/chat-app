@@ -1,0 +1,23 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "A basic chat app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zRnatoNeto/chat-app.git"
+  },
+  "author": "zRnatoNeto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zRnatoNeto/chat-app/issues"
+  },
+  "homepage": "https://github.com/zRnatoNeto/chat-app#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
